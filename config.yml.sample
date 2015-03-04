@@ -1,0 +1,6 @@
+database:
+  username: database-username
+  password: some-secret-password
+  database: database-name
+http:
+  port: 8080
